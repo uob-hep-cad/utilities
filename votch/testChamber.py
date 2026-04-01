@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+#
+# Exercise EnvChamber library
+#
 import EnvChamber
 
  
