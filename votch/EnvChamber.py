@@ -3,6 +3,8 @@
 # controlled by SimPac controller
 #
 # David Cussans, Jeson Jacob, Bristol Sept 2011
+#
+# 30/March/2026 Converted to Python3 , David Cussans
 
 import socket
 import time
